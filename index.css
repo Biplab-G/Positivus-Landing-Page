@@ -635,3 +635,18 @@ text-align: center;
   font-size: 18px;
   
 }
+
+.box-01 {
+  margin-top: 80px;
+  background-color: #B9FF66;
+  height: 279px;
+  width: 1234px;
+}
+
+.div1 {
+  justify-content: flex-end;
+}
+
+.button+ {
+  text-align: right;
+}
