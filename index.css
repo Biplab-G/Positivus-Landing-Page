@@ -248,6 +248,8 @@ font-size: 23px;
   background-color: white;
 }
 
+
+
 .leter-4 {
   font-size: 28px;
   background-color: white;
@@ -263,7 +265,6 @@ img.arrow {
   font-size: 23px;
 
 }
-
 /*3 */
 
 .icon-3 {
@@ -484,6 +485,12 @@ margin-bottom: -9px;
 .Learn-more{
 font-size: 23px;
 
+}
+
+.new {
+  font-size: 18px;
+  color: #B9FF66;
+  text-decoration: none;
 }
 
 .body-free-plan {
@@ -791,6 +798,18 @@ border-radius: 800px;
 }
 
 
+.Learn-more {
+  text-decoration: none;
+  font-size: 18px;
+  color: #000;
+}
+
+.learn-more1 {
+  text-decoration: none;
+  font-size: 18px;
+  color:white;
+}
+
 .btn-see-all {
   margin-top: 40px;
   height: 40px;
@@ -888,7 +907,7 @@ border-radius: 800px;
   padding: 25px;
   width: 1240px;
   height: 773px;
-  border-radius: 6px;
+  border-radius: 25px;
   display: flex;
   background-color: #F3F3F3;  
   justify-content: space-between;
@@ -923,7 +942,7 @@ textarea {
 
 
 
-button {
+.send-message {
   margin-top: 15px;
   padding: 12px;
   border: none;
@@ -951,4 +970,98 @@ button {
   justify-content: space-between;
  
 }
+
+.main-footer {
+  margin-top: 100px;
+  padding-top: 42px;
+  height: 514px;
+  width: 1240px;
+  background-color: #191A23;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+
+}
+
+.footer-bar {
+  padding-top: 10px;
+  height: 70px;
+  width: 1240px;
+   display: flex;
+  justify-content: space-evenly;
+  color: #F3F3F3;
+}
+
+
+.footer-details {
+  margin-top: 100px;
+  display: flex;
+  justify-content: space-around;
+  color: #F3F3F3;
+  padding-left: 40px;
+
+}
+
+
+.footer-details-1 {
+  padding-top: 50px;
+  padding-left: 40px;
+  height: 185px;
+  width: 332px;
+}
+
+.subscribe-to-news {
+  background-color: #B9FF66;
+  color: #000;
+}
+
+.details-email {
+  padding-top: 50px;
+  padding-left: 150px;
+  height: 184px;
+  width: 634px;
+  background-color: #292A32;
+  border-radius: 20px;
+}
+
+.subscribe-to-news {
+  height: 40px;
+  width: 200px;
+  border: none;
+  background: #B9FF66;
+  color: black;
+  font-size: 20px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+
+.hr {
+  height: 1px;
+  width: 1120px;
+  margin-left: 50px;
+
+}
+
+
+.last-details {
+  color: #F3F3F3;
+  display: flex;
+  font-size: 18px;
+  
+}
+
+.all-rights-reserved {
+  padding-left: 100px;
+}
+
+
+.privacy-policy {
+  padding-left: 100px;
+  text-decoration: none;
+  font-size: 18px;
+  color: #F3F3F3;
+}
+
+
+
 
